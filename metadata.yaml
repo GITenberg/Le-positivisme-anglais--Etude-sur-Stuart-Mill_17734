@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Hippolyte_Taine
     - http://fr.wikipedia.org/wiki/Hippolyte_Taine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17734#Le-positivisme-anglais--Etude-sur-Stuart-Mill
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-02-09'
 gutenberg_type: Text
