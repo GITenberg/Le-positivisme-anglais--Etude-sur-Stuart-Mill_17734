@@ -1,0 +1,36 @@
+_repo: Le-positivisme-anglais--Etude-sur-Stuart-Mill_17734
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taine, Hippolyte
+    aliases:
+    - Graindorge, Frédéric-Thomas
+    - Taine, Hippolyte Adolphe
+    - Taine, H. A. (Hippolyte Adolphe)
+    - Graindorge, Frederic-Thomas
+    birthdate: 1828
+    deathdate: 1893
+    gutenberg_agent_id: '969'
+    url: http://www.gutenberg.org/2009/agents/969
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Hippolyte_Taine
+    - http://fr.wikipedia.org/wiki/Hippolyte_Taine
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17734'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mill, John Stuart, 1806-1873'
+- !lcsh 'Positivism'
+- !lcc 'B'
+title: 'Le positivisme anglais: Etude sur Stuart Mill'
+url: http://www.gutenberg.org/ebooks/17734
